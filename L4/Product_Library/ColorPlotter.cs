@@ -15,7 +15,7 @@ namespace PlotterLibrary
         /// </summary>
         private string PlotterColor { get; }
         /// <summary>
-        /// Конструктор цветной лампы
+        /// Конструктор цветного плоттера
         /// </summary>
         /// <param name="brend">Бренд</param>
         /// <param name="id">ID</param>
