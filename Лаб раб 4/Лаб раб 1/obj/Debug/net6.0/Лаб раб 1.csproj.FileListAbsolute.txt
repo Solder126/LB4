@@ -1,0 +1,18 @@
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Лаб раб 1.exe
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Лаб раб 1.deps.json
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Лаб раб 1.runtimeconfig.json
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Лаб раб 1.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Лаб раб 1.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.csproj.AssemblyReference.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.AssemblyInfoInputs.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.AssemblyInfo.cs
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.csproj.CoreCompileInputs.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\refint\Лаб раб 1.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.genruntimeconfig.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\ref\Лаб раб 1.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Лаб раб 1.csproj.CopyComplete

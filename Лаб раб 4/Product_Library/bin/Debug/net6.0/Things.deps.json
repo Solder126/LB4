@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Things/1.0.0": {
+        "dependencies": {
+          "BarCode_Library": "1.0.0"
+        },
+        "runtime": {
+          "Things.dll": {}
+        }
+      },
+      "BarCode_Library/1.0.0": {
+        "runtime": {
+          "BarCode_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Things/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarCode_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

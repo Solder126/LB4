@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Product_Library/1.0.0": {
+        "dependencies": {
+          "BarCode_Library": "1.0.0"
+        },
+        "runtime": {
+          "Product_Library.dll": {}
+        }
+      },
+      "BarCode_Library/1.0.0": {
+        "runtime": {
+          "BarCode_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Product_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarCode_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

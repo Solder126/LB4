@@ -1,0 +1,168 @@
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.exe
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CopyComplete
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.exe
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.dll
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CopyComplete
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.dll
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+Z:\2021_09.03.04_ПИ11\Кузнецов Максим\5 семестр\С#\Лаб раб 1\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.exe
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Product_Library.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Product_Library.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CopyComplete
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.dll
+C:\Users\MAXIM\Desktop\ЧГУ\5 семестр\C#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.pdb
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.exe
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.dll
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Product_Library.dll
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.dll
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.pdb
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\bin\Debug\net6.0\Product_Library.pdb
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.csproj.Up2Date
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.dll
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+F:\5 сем\С#\Лаб раб 2 (2)\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.exe
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.dll
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Product_Library.dll
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.dll
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.pdb
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Product_Library.pdb
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.Up2Date
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.dll
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+C:\Users\User\Desktop\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.exe
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.dll
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Product_Library.dll
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.dll
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\ShowCase_Library.pdb
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Product_Library.pdb
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CopyComplete
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.dll
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+C:\Users\Asus\Desktop\С#\Лаб_Раб2\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.exe
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CopyComplete
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Container.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Things.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Container.pdb
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Лаб раб 1\bin\Debug\net6.0\Things.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\Main.exe
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\Main.deps.json
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\Main.runtimeconfig.json
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\Main.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\Main.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\BarcodeLibrary.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\PlotterLibrary.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\ShopWindowLibrary.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\BarcodeLibrary.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\PlotterLibrary.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\bin\Debug\net6.0\ShopWindowLibrary.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.AssemblyInfo.cs
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.csproj.CopyComplete
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\refint\Main.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\Main.genruntimeconfig.cache
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 4\Лаб раб 1\obj\Debug\net6.0\ref\Main.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PlotterLibrary/1.0.0": {
+        "dependencies": {
+          "BarcodeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PlotterLibrary.dll": {}
+        }
+      },
+      "BarcodeLibrary/1.0.0": {
+        "runtime": {
+          "BarcodeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlotterLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarcodeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

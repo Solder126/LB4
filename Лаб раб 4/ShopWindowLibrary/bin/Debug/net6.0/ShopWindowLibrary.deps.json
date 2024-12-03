@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShopWindowLibrary/1.0.0": {
+        "dependencies": {
+          "BarcodeLibrary": "1.0.0",
+          "PlotterLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ShopWindowLibrary.dll": {}
+        }
+      },
+      "BarcodeLibrary/1.0.0": {
+        "runtime": {
+          "BarcodeLibrary.dll": {}
+        }
+      },
+      "PlotterLibrary/1.0.0": {
+        "dependencies": {
+          "BarcodeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PlotterLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopWindowLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarcodeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlotterLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

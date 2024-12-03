@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BarcodeLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BarcodeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BarcodeLibrary.dll": {}
+        }
+      },
+      "PlotterLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BarcodeLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PlotterLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlotterLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarcodeLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BarCode_Library/BarcodeLibrary.csproj",
+      "msbuildProject": "../BarCode_Library/BarcodeLibrary.csproj"
+    },
+    "PlotterLibrary/1.0.0": {
+      "type": "project",
+      "path": "../Product_Library/PlotterLibrary.csproj",
+      "msbuildProject": "../Product_Library/PlotterLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BarcodeLibrary >= 1.0.0",
+      "PlotterLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\С#\\4 ЛБ\\Лаб раб 4\\ShopWindowLibrary\\ShopWindowLibrary.csproj",
+      "projectName": "ShopWindowLibrary",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\С#\\4 ЛБ\\Лаб раб 4\\ShopWindowLibrary\\ShopWindowLibrary.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\С#\\4 ЛБ\\Лаб раб 4\\ShopWindowLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Asus\\Desktop\\С#\\4 ЛБ\\Лаб раб 4\\BarCode_Library\\BarcodeLibrary.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\С#\\4 ЛБ\\Лаб раб 4\\BarCode_Library\\BarcodeLibrary.csproj"
+            },
+            "C:\\Users\\Asus\\Desktop\\С#\\4 ЛБ\\Лаб раб 4\\Product_Library\\PlotterLibrary.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\С#\\4 ЛБ\\Лаб раб 4\\Product_Library\\PlotterLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\Things.deps.json
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\Things.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\Things.pdb
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.AssemblyInfo.cs
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.csproj.CopyComplete
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\refint\Things.dll
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.pdb
+C:\Users\Asus\Desktop\С#\3ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\ref\Things.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\Things.deps.json
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\Things.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\Things.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\BarCode_Library.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\bin\Debug\net6.0\BarCode_Library.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.AssemblyInfo.cs
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.csproj.CopyComplete
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\refint\Things.dll
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\Things.pdb
+C:\Users\Asus\Desktop\С#\4 ЛБ\Лаб раб 2\Product_Library\obj\Debug\net6.0\ref\Things.dll
